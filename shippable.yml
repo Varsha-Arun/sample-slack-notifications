@@ -29,5 +29,4 @@ after_failure:
   #- heroku run rake db:migrate
   
 notifications:
-  email:
-    varsha@shippable.com
+  email: false
